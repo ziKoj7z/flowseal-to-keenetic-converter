@@ -1,4 +1,4 @@
-Автоматический скрипт, позволяющий конвертировать стратегии [Flowseal'a](https://github.com/Flowseal/zapret-discord-youtube) под [Keenetic](https://github.com/nfqws/nfqws-keenetic)
+***Автоматический скрипт, позволяющий конвертировать стратегии [Flowseal'a](https://github.com/Flowseal/zapret-discord-youtube) под [Keenetic](https://github.com/nfqws/nfqws-keenetic)***
 
 ---
 # Использование
